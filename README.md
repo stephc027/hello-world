@@ -1,5 +1,5 @@
 # hello-world
-Repositively perfect in every way
+
 
 #Hello, I'm Stephanie Cunningham.  
 #I'm a data scientist and like to build machine learning and other data projects in R and Python.
